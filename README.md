@@ -1,6 +1,6 @@
-# Conditional Vision Transformer (CVT) for Traffic Sign Classification 🚦
+# Conditional Vision Transformer (CViT) for Traffic Sign Classification 🚦
 
-This repository contains the implementation of a **Conditional Vision Transformer (CVT)** designed for accurate and robust traffic sign classification using the [GTSRB (German Traffic Sign Recognition Benchmark)]([https://benchmark.ini.rub.de/gtsrb_dataset.html](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)) dataset. This model introduces a novel conditional attention mechanism that dynamically adapts the attention weights based on input context, significantly improving performance on misclassification-prone classes.
+This repository contains the implementation of a **Conditional Vision Transformer (CViT)** designed for accurate and robust traffic sign classification using the [GTSRB (German Traffic Sign Recognition Benchmark)]([https://benchmark.ini.rub.de/gtsrb_dataset.html](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)) dataset. This model introduces a novel conditional attention mechanism that dynamically adapts the attention weights based on input context, significantly improving performance on misclassification-prone classes.
 
 ---
 
